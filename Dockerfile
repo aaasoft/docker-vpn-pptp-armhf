@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM osrf/ubuntu_armhf:trusty
 MAINTAINER Przemek Szalko <przemek@mobtitude.com>
 
 ENV DEBIAN_FRONTEND noninteractive
